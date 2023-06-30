@@ -18,8 +18,13 @@ El script consta de las siguientes funciones:
 
 ### Instrucciones de uso
 1. Ejecuta el archivo `cripto.py`.
+
 2. Para encriptar la imagen es cuestion de seleccionar la opcion de Encriptar, el archivo que toma es "imagen.jpg" asi que asegurate de que tu imagen tenga el nombre correcto.
+
 3. El script generará automáticamente las claves para el proceso de encriptación y desencriptación. También tendrás la opción de generar claves vulnerables, pero se recomienda utilizarlas únicamente con fines educativos.
+
 4. Elige la opción de encriptación y el script aplicará el algoritmo S-DES a la imagen seleccionada, generando una imagen encriptada.
+
 5. Para desencriptar una imagen previamente encriptada, selecciona la opción correspondiente y proporciona la ubicación de la imagen encriptada.
+
 6. El script realizará el proceso de desencriptación utilizando las claves generadas, incluyendo las claves vulnerables, y restaurará la imagen original.
