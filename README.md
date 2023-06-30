@@ -1,4 +1,4 @@
-# Encrypt-and-Decrypt-an-image-with-S-DES
+# Encrypt_and_Decrypt_an_image_with_S-DES
 Este script en Python está diseñado para encriptar y desencriptar imágenes utilizando el sistema de encriptación Simplified Data Encryption Standard (S-DES). Lo notable de este script es que ha sido implementado desde cero, sin el uso de módulos que contengan la funcionalidad del S-DES.
 
 ## ¿Qué es el S-DES?
