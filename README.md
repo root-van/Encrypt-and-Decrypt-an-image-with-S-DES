@@ -25,6 +25,6 @@ El script consta de las siguientes funciones:
 
 4. Elige la opción de encriptación y el script aplicará el algoritmo S-DES a la imagen seleccionada, generando una imagen encriptada.
 
-5. Para desencriptar una imagen previamente encriptada, selecciona la opción correspondiente y proporciona la ubicación de la imagen encriptada.
+5. Para desencriptar una imagen previamente encriptada, selecciona la opción correspondiente e indica el nombre de los dos archivos donde se encuentran las keys.
 
 6. El script realizará el proceso de desencriptación utilizando las claves generadas, incluyendo las claves vulnerables, y restaurará la imagen original.
